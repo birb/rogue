@@ -1,0 +1,18 @@
+rogue notes:
+
+hotkeys and menus are tedious. 
+some things should just happen automatically 
+(ex. moving down stairs when you step on them. 
+we would have to make sure stairs cant spawn in front of hallways, 
+if that happened then the player would be FORCED down the stairs)
+
+use arrow keys to move for the love of god
+
+be able to click self for some kind of inventory option? 
+like click self and a popup menu happens to show you what you have.
+
+the little dialog in fights is very cute. keep that. 
+
+turn based fights, based on rolls of a die.
+
+regaining health every step is good
